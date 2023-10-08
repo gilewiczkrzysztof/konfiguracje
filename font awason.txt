@@ -1,0 +1,11 @@
+<script src="https://kit.fontawesome.com/4f14023892.js" crossorigin="anonymous"></script>
+
+
+
+<i class="fa-brands fa-facebook"></i>
+
+<i class="fa-brands fa-twitter"></i>
+
+<i class="fa-solid fa-user-group"></i>
+
+<i class="fa-solid fa-images"></i>
